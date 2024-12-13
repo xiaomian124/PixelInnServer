@@ -4,3 +4,5 @@
 欢迎加入我们的Discord： https://discord.gg/G7Jmx78TGD  
 服务器QQ群：903056555  
 欢迎你加入我们的服务器！  
+
+![image](ServerMain/Image/readme.png)
