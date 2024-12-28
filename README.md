@@ -5,4 +5,4 @@
 服务器QQ群：903056555  
 欢迎你加入我们的服务器！  
 
-![image](ServerMain/Image/readme.png)
+![image](ServerMain/Image/icon.png)
